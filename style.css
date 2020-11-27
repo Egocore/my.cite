@@ -56,11 +56,11 @@ body {
 }
 
 .heading {
-  margin: 0 0 16px;
+  margin: 0 0 100px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 88px;
-  line-height: 96px;
-  font-weight: 400;
+  font-size: 120px;
+  line-height: 10px;
+  font-weight: 500;
 }
 
 .hero-image p {
@@ -76,9 +76,9 @@ body {
 .subheading {
   margin: 0 0 56px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 64px;
+  font-size: 60px;
   line-height: 80px;
-  font-weight: 400;
+  font-weight: 500;
   text-align: center;
 }
 
@@ -171,13 +171,13 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #C0C0C0;
   color: #ffffff;
 }
 
 .page-footer a {
   margin-left: 56px;
-  color: inherit;
+  color: #FFFFFF;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
